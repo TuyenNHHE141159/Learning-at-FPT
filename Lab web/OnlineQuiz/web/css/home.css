@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Jul-2021, 16:58:40
+    Author     : User
+*/
+.main table tr td:first-child {
+    width: 90px;
+}
+.main table tr td input {
+    width: 190.8px;
+}
+.main form button {
+    margin-left: 5%;
+}

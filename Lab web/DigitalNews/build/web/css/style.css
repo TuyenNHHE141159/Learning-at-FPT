@@ -1,0 +1,190 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-May-2021, 20:43:41
+    Author     : User
+*/
+
+.container{
+    width:886px;
+    height:auto;
+    margin-left:auto;
+    margin-right: auto;
+}
+.preheader{
+    width:886px;
+    height:71px;
+    background-image: url(../images/preheader.jpg);
+}
+.header{
+    width:886px;
+    height:78px;
+    background-image: url(../images/header.jpg);
+}
+.footer{
+    width:886px;
+    height:78px;
+    background-image: url(../images/footer.jpg);
+}
+.header_title{
+    margin-left:80px;
+    color:white;
+    font-size: 20px;
+}
+.menu{
+    width:886px;
+    height:32px;
+    background-image: url(../images/menu.jpg);
+}
+.menu a{
+    line-height: 25px;
+    text-decoration: none;
+    color:white;
+    margin-left:80px;
+    display: block;
+}
+.main{
+    display: flex;
+    width: 886px;
+    height: auto;
+    background-image: url(../images/bg.jpg);
+}
+.left{
+    width: 600px;
+    height: auto;
+    border-right: 1px dotted black;
+}
+.right{
+    width: 216px;
+    height: auto;
+}
+.image img{
+    width: 400px;
+    height:174px;
+    margin-left:80px;
+}
+.title a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+}
+.title{
+    color:black;
+    font-size:20px;
+    margin-left:80px;
+    margin-top:20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+.left .title a{
+    color:black;
+    font-size:18px;
+    text-decoration: none;
+}
+.des{
+    margin-left:80px;
+    margin-right: 20px;
+    margin-top:10px;
+    padding-bottom: 50px;
+    border-bottom: 1px dotted gray;
+}
+.writter{
+    float:right;
+    margin-right: 15px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.summary{
+    margin-left:20px;
+    margin-top:10px;
+    margin-right:30px;
+
+}
+.right .title{
+    margin-left:20px;
+}
+form{
+    margin-top:10px;
+    display:flex;
+}
+form input{
+    border:1px dotted gray;
+    margin-left:20px;
+}
+button{
+    background-color: white;
+    border:none;
+    font-weight: bold;
+}
+.icon1{
+    display: inline-block;
+    height: 9px;
+    width: 9px;
+    background-image: url(../images/timeicon.gif);
+}
+.icon2{
+    display: inline-block;
+    background-image: url(../images/comment.gif);
+    height: 9px;
+    width: 9px;
+}
+.lastArticle {
+    display:inline-block;
+    margin-top:10px;
+    font-size:15px;
+    margin-left: 15px;
+}
+.per_article{
+    padding-bottom: 20px;
+    border-bottom: 1px dotted gray;
+    margin-left: 81px;
+}
+.per_article .image img{
+    width: 60%;
+}
+.per_article .summary{
+    margin-top: -10px;
+    margin-left: 0px;
+}
+.per_article .title{
+    margin-left: 0px;
+}
+.paging{
+    text-align: center;
+    margin-top:5px;
+    margin-left: 60px;
+}
+.paging a{
+    text-decoration: none;
+    padding: 2px;  
+
+}
+.active{
+    background-color: blue;
+}
+.left h2{
+    margin-left: 80px;
+    color: green;
+}
+@media only screen and (max-width: 991px){
+    
+    .main{      
+        display: block;     
+        margin-top: -25px;
+    }
+    .right{
+        width: 87%;
+        margin-left: 65px;
+        margin-top: 50px;
+    }
+    .left{
+        border-right: none;
+        width:90%;
+    }
+    
+}
