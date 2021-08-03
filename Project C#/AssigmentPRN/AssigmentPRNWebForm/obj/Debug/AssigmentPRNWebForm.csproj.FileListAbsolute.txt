@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\bin\AssigmentPRNWebForm.dll.config
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\bin\AssigmentPRNWebForm.dll
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\bin\AssigmentPRNWebForm.pdb
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\obj\Debug\AssigmentPRNWebForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\obj\Debug\AssigmentPRNWebForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\obj\Debug\AssigmentPRNWebForm.dll
+C:\Users\User\source\repos\AssigmentPRNWebForm\AssigmentPRNWebForm\obj\Debug\AssigmentPRNWebForm.pdb

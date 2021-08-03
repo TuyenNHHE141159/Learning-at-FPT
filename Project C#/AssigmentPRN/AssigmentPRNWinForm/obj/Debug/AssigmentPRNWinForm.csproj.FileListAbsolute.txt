@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.Form1.resources
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.Login.resources
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\bin\Debug\AssigmentPRNWinForm.exe.config
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\bin\Debug\AssigmentPRNWinForm.exe
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\bin\Debug\AssigmentPRNWinForm.pdb
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.exe
+C:\Users\User\OneDrive\Desktop\PRN292\DemoPE\AssigmentPRNWinForm\obj\Debug\AssigmentPRNWinForm.pdb
